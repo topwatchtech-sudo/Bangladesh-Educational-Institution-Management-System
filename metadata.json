@@ -1,0 +1,6 @@
+{
+  "name": "Bangladesh Educational Institution Management System",
+  "description": "An enterprise-grade government-style web portal and administrative management system for educational institutions in Bangladesh. Features include interactive notice boards, curriculum planners, routines, EMIS/IMS reports, an online admission desk, and a comprehensive admin control deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
